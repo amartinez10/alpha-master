@@ -32,7 +32,7 @@ public class ActivityAchievements extends AppCompatActivity implements Navigatio
         mToggle.syncState();
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
     }
 
     @Override

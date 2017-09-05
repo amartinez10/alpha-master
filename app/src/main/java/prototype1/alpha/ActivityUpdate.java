@@ -33,7 +33,7 @@ public class ActivityUpdate extends AppCompatActivity implements NavigationView.
         mToggle.syncState();
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
     }
 
     @Override
@@ -59,7 +59,7 @@ public class ActivityUpdate extends AppCompatActivity implements NavigationView.
             Intent intent = new Intent(this, ActivityFriends.class);
             startActivity(intent);
         } else if(id == R.id.nav_profile){
-            Intent intent = new Intent(this, ActivityUpdate.class);
+            Intent intent = new Intent(this, ActivityProfile.class);
             startActivity(intent);
         } else if(id == R.id.nav_reminders){
             Intent intent = new Intent(this, ActivityReminders.class);

@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="68fe6349ef44b56e834227fb585159ea7a5484b9">
+        sha1="3b91ec0929fb0dd9513726e1e19b6f335136ccab">
         <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f4020b327b2d509941fbcf4db1ab009abd97b090\classes.dex" />
     </item>
     <item
@@ -241,7 +241,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="a1dc98caedb19cd1b72bef2cbfd0f056f89f4c62">
+        sha1="45b0ea950046b1b2169ff5242e0ecc0259d370f9">
         <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e90754a61e1c4d8aeef3644eec1461650b40e96f\classes.dex" />
     </item>
     <item

@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         mToggle.syncState();
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
     }
 
     @Override
@@ -122,5 +122,10 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     public void gotoUpdate(View view){
         Intent intentRecommendations = new Intent(this, ActivityUpdate.class);
         startActivity(intentRecommendations);
+    }
+
+    public void gotoCloset(View view){
+        Intent intentCloset = new Intent(this, ActivityCloset.class);
+        startActivity(intentCloset);
     }
 }

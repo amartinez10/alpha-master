@@ -33,7 +33,7 @@ public class ActivityRecommendations extends AppCompatActivity implements Naviga
         mToggle.syncState();
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
     }
 
     @Override

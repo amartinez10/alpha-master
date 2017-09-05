@@ -33,7 +33,7 @@ public class ActivitySettings extends AppCompatActivity implements NavigationVie
         mToggle.syncState();
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
     }
 
     @Override

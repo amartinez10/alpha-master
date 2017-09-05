@@ -34,7 +34,7 @@ public class ActivitySchedule extends AppCompatActivity implements NavigationVie
         mToggle.syncState();
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
     }
 
     @Override

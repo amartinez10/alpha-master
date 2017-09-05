@@ -33,7 +33,7 @@ public class ActivityProfile extends AppCompatActivity implements NavigationView
         mToggle.syncState();
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
     }
 
     @Override

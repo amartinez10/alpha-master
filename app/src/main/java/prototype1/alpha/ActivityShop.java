@@ -35,7 +35,7 @@ public class ActivityShop extends AppCompatActivity implements NavigationView.On
         mToggle.syncState();
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
     }
 
     @Override

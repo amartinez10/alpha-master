@@ -32,7 +32,7 @@ public class ActivityFriends extends AppCompatActivity implements NavigationView
         mToggle.syncState();
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
     }
 
     @Override

@@ -34,7 +34,7 @@ public class ActivityReminders extends AppCompatActivity implements NavigationVi
         mToggle.syncState();
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
     }
 
     @Override
