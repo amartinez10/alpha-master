@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="prototype1.alpha">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label=""
+        android:logo="@drawable/navbar"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".ActivityAchievements">
+            <intent-filter>
+                <action android:name="com.prototype1.alpha.ActivityAchievements" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ActivityCloset">
+            <intent-filter>
+                <action android:name="com.prototype1.alpha.ActivityCloset" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ActivityFriends">
+            <intent-filter>
+                <action android:name="com.prototype1.alpha.ActivityFriends" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ActivityProfile">
+            <intent-filter>
+                <action android:name="com.prototype1.alpha.ActivityProfile" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ActivityReminders">
+            <intent-filter>
+                <action android:name="com.prototype1.alpha.ActivityReminders" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ActivitySchedule">
+            <intent-filter>
+                <action android:name="com.prototype1.alpha.ActivitySchedule" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ActivitySettings">
+            <intent-filter>
+                <action android:name="com.prototype1.alpha.ActivitySettings" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ActivityShop">
+            <intent-filter>
+                <action android:name="com.prototype1.alpha.ActivityShop"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".ActivitySleep">
+            <intent-filter>
+                <action android:name="com.prototype1.alpha.ActivitySleep"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".ActivityDiet">
+            <intent-filter>
+                <action android:name="com.prototype1.alpha.AcivityDiet"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".ActivityActivity">
+            <intent-filter>
+                <action android:name="com.prototype1.alpha.ActivityActivity"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".ActivityRecommendations">
+            <intent-filter>
+                <action android:name="com.prototype1.alpha.ActivityRecommendations"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".ActivityUpdate">
+            <intent-filter>
+                <action android:name="com.prototype1.alpha.ActivityUpdate"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".ActivityLeaderboard">
+            <intent-filter>
+                <action android:name="com.prototype1.alpha.ActivityLeaderboard"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
