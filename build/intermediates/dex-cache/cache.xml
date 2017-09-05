@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\mostw\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\pre-dexed\release\support-annotations-25.2.0_51638dcb2dd38c22290ee8c560f818c199dac1d8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mostw\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_51638dcb2dd38c22290ee8c560f818c199dac1d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-25.2.0_f53549b9399b12d5e3553016b4586db3e65475c0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_6bb018defbd39742ea47e519792ba5c44043be8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68fe6349ef44b56e834227fb585159ea7a5484b9">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f4020b327b2d509941fbcf4db1ab009abd97b090\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_f53549b9399b12d5e3553016b4586db3e65475c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-25.2.0_6bb018defbd39742ea47e519792ba5c44043be8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\pre-dexed\release\com.android.support-transition-25.2.0_8befb72c3ea0b0b1870c0b0467744fdf023e7455.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_50daaf55a1ff07de0fbf8020387e149be354cbfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_70769356c05df7cf51fabe7e67cb5962bbe6a5c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.2.0_70769356c05df7cf51fabe7e67cb5962bbe6a5c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\pre-dexed\release\com.android.support-design-25.2.0_00e9cb9b93fe94303cd0bee8d7c7305ffa1b7963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.2.0_96daea13b3c2197a1f65ad49ac57a28f91d9a2e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.2.0_50daaf55a1ff07de0fbf8020387e149be354cbfe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_96daea13b3c2197a1f65ad49ac57a28f91d9a2e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_00e9cb9b93fe94303cd0bee8d7c7305ffa1b7963\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-25.2.0_f65437b858d4e9a7bc75a2b9e516c88e1fe05d94.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_f65437b858d4e9a7bc75a2b9e516c88e1fe05d94\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.2.0_45d4e26ec2ca20ae95b05031a5e8b49205d55a23.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_b12272453fd15100a668cda3a7a7c8b612ccbf59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_45d4e26ec2ca20ae95b05031a5e8b49205d55a23\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.2.0_b12272453fd15100a668cda3a7a7c8b612ccbf59.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_8befb72c3ea0b0b1870c0b0467744fdf023e7455\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.2.0_505c211e0fa5edb6d7bd689cbbe53ff278ecde61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-25.2.0_e524a9e48717e66724947abba85a2a42e4679f18.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_505c211e0fa5edb6d7bd689cbbe53ff278ecde61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1dc98caedb19cd1b72bef2cbfd0f056f89f4c62">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e90754a61e1c4d8aeef3644eec1461650b40e96f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\mostw\Downloads\Alpha-master\Alpha-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_e524a9e48717e66724947abba85a2a42e4679f18\classes.dex" />
+    </item>
+
+</items>
